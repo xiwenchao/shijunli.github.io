@@ -11,7 +11,7 @@ BODY {
 	BACKGROUND: #0a2245; MARGIN: 0px auto; HEIGHT: 100px; VERTICAL-ALIGN: bottom
 }
 #content {
-	BACKGROUND: #white; PADDING-BOTTOM: 50px; PADDING-TOP: 20px; PADDING-LEFT: 50px; MARGIN: 0px auto; PADDING-RIGHT: 50px; WIDTH: 987px
+	BACKGROUND: #white; PADDING-BOTTOM: 50px; PADDING-TOP: 20px; PADDING-LEFT: 50px; MARGIN: 0px auto; PADDING-RIGHT: 50px; WIDTH: 967px
 }
 H1 {
 	FONT-SIZE: 30px; MARGIN: 0px; DISPLAY: inline
@@ -26,7 +26,7 @@ P {
 	MARGIN: 10px 40px 10px 10px
 }
 TABLE {
-	MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 740px; BACKGROUND-COLOR: #f6fbfe
+	MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left; WIDTH: 720px; BACKGROUND-COLOR: #f6fbfe
 }
 .title {
 	FONT-WEIGHT: bold
@@ -74,7 +74,7 @@ IMG {
 	FLOAT: left; CLEAR: both
 }
 #left {
-	FLOAT: left; WIDTH: 765px
+	FLOAT: left; WIDTH: 745px
 }
 #right {
 	FLOAT: right; MARGIN: 16px -5px 0px 6px
